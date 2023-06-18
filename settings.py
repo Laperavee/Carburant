@@ -1,0 +1,2 @@
+CODE_POSTAL = "43000"
+CARBURANT = "Gazole"
